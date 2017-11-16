@@ -15,3 +15,9 @@ whitespace, and convert everything to lowercase. Please include
 documentation for running your program as well as the the output for the
 words “queequeg”, “whale”, and “sea”. Try to make it easy-to-use and
 efficiently implemented.
+
+// TODO
+- create method which opens a collection of documents
+- create method which formats the text
+- create method which opens a set of words
+- create method which uses Lucene library to find in files
